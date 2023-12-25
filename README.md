@@ -1,5 +1,8 @@
 # OfflineOffersNeedsWall 3D Printed Index Frame Project
 
+![](outsidewall.jpg)
+![](insidewall.jpg)
+
 Welcome to the OfflineOffersNeedsWall project, a set of 3D-printed components designed to facilitate an offline index card-based offers and needs wall. 
 
 This project aims to provide an easy way to promote collaboration, community engagement, and mutual support in local cafes and community spaces by providing a tangible platform for individuals to share their needs, offers, events, and ideas.
